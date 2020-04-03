@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mobgoUri": "mongodb://localhost:27017/mern",
+  "jwtSecret": "Byrhunter",
+  "baseUrl": "http://localhost:5000"
+}
